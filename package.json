@@ -1,5 +1,5 @@
 {
-  "homepage":"http://felidious.github.io/online-shop",
+  "homepage":"http://felidious.github.io/commerce-online",
   "name": "commerce-app",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy":"npm run buid",
+    "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
